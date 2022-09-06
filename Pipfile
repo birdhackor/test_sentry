@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 sentry-sdk = "*"
 typer = {extras = ["all"], version = "*"}
+loguru = "*"
 
 [dev-packages]
 
